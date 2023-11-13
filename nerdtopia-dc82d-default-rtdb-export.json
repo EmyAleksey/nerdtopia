@@ -1,0 +1,166 @@
+{
+  "bonecos": [
+    null,
+    {
+      "nome": "Rimuru Tempest",
+      "preco": "200,00R$",
+      "tamanho": "17cm"
+    },
+    {
+      "nome": "Megumin",
+      "preco": "110,90R$",
+      "tamanho": "10cm"
+    },
+    {
+      "nome": "Luffy",
+      "preco": "210,90R$",
+      "tamanho": "17cm"
+    },
+    {
+      "nome": "Shikamaru Nara",
+      "preco": "214,00R$",
+      "tamanho": "17cm"
+    },
+    {
+      "nome": "Levi Ackerman",
+      "preco": "167,00R$",
+      "tamanho": "12cm"
+    },
+    {
+      "nome": "Ichigo Kurosaki",
+      "preco": "210,00R$",
+      "tamanho": "17cm"
+    },
+    {
+      "nome": "Toshiro Hitsugaya",
+      "preco": "213,00R$",
+      "tamanho": "15cm"
+    },
+    {
+      "nome": "Ahri",
+      "preco": "317,00R$",
+      "tamanho": "24cm"
+    },
+    {
+      "nome": "Samira",
+      "preco": "176,00R$",
+      "tamanho": "15cm"
+    },
+    {
+      "nome": "Kokushibo Tsugikuni",
+      "preco": "217,00R$",
+      "tamanho": "17cm"
+    },
+    {
+      "nome": "Spider-Man",
+      "preco": "179,00R$",
+      "tamanho": "17cm"
+    }
+  ],
+  "camisas": [
+    null,
+    {
+      "nome": "Rimuru Tempest",
+      "preco": "60,00R$",
+      "tamanho": "P, M, G, GG"
+    },
+    {
+      "nome": "Tanjrio",
+      "preco": "60,00R$",
+      "tamanho": "P, M, G, GG"
+    },
+    {
+      "nome": "Anya Forger",
+      "preco": "60,00R$",
+      "tamanho": "P, M, G, GG"
+    },
+    {
+      "nome": "Naruto",
+      "preco": "60,00R$",
+      "tamanho": "P, M, G, GG"
+    },
+    {
+      "nome": "Goku",
+      "preco": "60,00R$",
+      "tamanho": "P, M, G, GG"
+    },
+    {
+      "nome": "Darth Vader",
+      "preco": "65,00R$",
+      "tamanho": "P, M, G, GG"
+    },
+    {
+      "nome": "Batman",
+      "preco": "73,00R$",
+      "tamanho": "P, M, G, GG"
+    },
+    {
+      "nome": "Luffy",
+      "preco": "58,00R$",
+      "tamanho": "P, M, G, GG"
+    },
+    {
+      "nome": "Satoro Gojo",
+      "preco": "68,90R$",
+      "tamanho": "P, M, G, GG"
+    },
+    {
+      "nome": "Baki",
+      "preco": "60,00R$",
+      "tamanho": "P, M, G, GG"
+    }
+  ],
+  "mangas": [
+    null,
+    {
+      "genero": "Fântasia",
+      "nome": "Tensei Shitara Slime Datta Ken",
+      "preco": "74,90R$"
+    },
+    {
+      "genero": "Ação, Demônios, Histórico",
+      "nome": "Kimetsu no Yaiba",
+      "preco": "84,90R$"
+    },
+    {
+      "genero": "Ação, Super Poderes, Comédia",
+      "nome": "One Punch Man",
+      "preco": "74,90R$"
+    },
+    {
+      "genero": "Ação, Horror, Sobrenatural, Psicológico",
+      "nome": "Beserk",
+      "preco": "92,90R$"
+    },
+    {
+      "genero": "Ação, Aventura, Demônios",
+      "nome": "Chainsaw Man",
+      "preco": "81,90R$"
+    },
+    {
+      "genero": "Drama, Fântasia , Magia",
+      "nome": "Mushoku Tensei: Isekai Ittara Honki Dasu ",
+      "preco": "70,90R$"
+    },
+    {
+      "genero": "Fântasia, Magia, Comédia",
+      "nome": "Kage no Jitsuryokusha ni Naritakute!",
+      "preco": "86,90R$"
+    },
+    {
+      "genero": "Ação, Aventura, Comédia",
+      "nome": "One Piece",
+      "preco": "122,90R$"
+    },
+    {
+      "genero": "Ação, Comédia",
+      "nome": " Spy x Family",
+      "preco": "76,90R$"
+    },
+    {
+      "genero": "Aventura, Fântasia, Comédia",
+      "nome": "tai no wa Iya nanode Bougyoryoku ni Kyokufuri Shitai to Omoimasu",
+      "preco": "80,90R$"
+    }
+  ]
+}
